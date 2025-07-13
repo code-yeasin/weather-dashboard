@@ -3,7 +3,7 @@
 
 ## 🚀 Deployment
 
-The project is live [Click here...](https://code-yeasin.github.io/weather-dashboard) 🌐. 
+The project is live [Click here...](https://weather-dashboard-eta-rosy.vercel.app/) 🌐. 
 
 # 🌦️ Weather Dashboard
 
